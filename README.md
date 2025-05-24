@@ -31,7 +31,7 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shawk20/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shawky20/)
 - 📧 shawkyabdelsamie@gmail.com
 
 ---
