@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Shawky Aboelela</h1>
+<h3 align="center">Full Stack Engineer @ Siemens EDA | Java Spring Boot & React Enthusiast</h3>
 
-<!--
-**shawky20/shawky20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm currently working as a **Full Stack Engineer at Siemens EDA**
+- 🚀 I build robust, scalable applications using **Java Spring Boot** and **React**
+- 🌍 Passionate about **software engineering**, **system integration**, and **clean architecture**
+- 🧠 Constantly learning **cloud-native development** and **DevOps**
+- ⚡ I love working on side projects that blend software and hardware
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- Java • JavaScript • Spring Boot • React • HTML/CSS
+
+**Tools & Platforms:**
+- Git & GitHub • Docker • PostgreSQL • Keycloak • API Connect • IntelliJ • VS Code
+
+---
+
+### 📈 GitHub Stats
+
+![Shawky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawky20&show_icons=true&theme=github_dark)
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shawky-aboelela/)
+- 📧 shawky.aboelela@gmail.com
+
+---
+
+<!-- Optional fun touch -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shawky20&label=Profile%20views&color=0e75b6&style=flat" alt="shawky20" />
+</p>
