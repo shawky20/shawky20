@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shawky Aboelela</h1>
+<h1 align="center">Hi there 👋, I'm Shawky Abdelsamie</h1>
 <h3 align="center">Full Stack Engineer @ Siemens EDA | Java Spring Boot & React Enthusiast</h3>
 
 ---
@@ -31,8 +31,8 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shawky-aboelela/)
-- 📧 shawky.aboelela@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shawk20/)
+- 📧 shawkyabdelsamie@gmail.com
 
 ---
 
